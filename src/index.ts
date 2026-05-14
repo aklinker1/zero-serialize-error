@@ -1,8 +1,12 @@
 /** Serialized error objects include */
 export type SerializedError = {
+  /** The `error.name` */
   name: string;
+  /** The `error.message` */
   message: string;
+  /** The `error.stack` */
   stack: string;
+  /** The `error.cause` */
   cause?: unknown;
   [otherKeys: string]: unknown;
 };
