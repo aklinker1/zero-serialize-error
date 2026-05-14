@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/oxfmt/configuration_schema.json",
-  "ignorePatterns": ["dist"],
+  "ignorePatterns": ["dist", "CHANGELOG.md"],
   "jsdoc": true,
   "sortImports": true,
   "sortPackageJson": true
