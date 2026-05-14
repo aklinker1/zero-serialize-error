@@ -1,6 +1,6 @@
 {
   "name": "@aklinker1/zero-serialize-error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Serialize and deserialize errors with zero dependencies",
   "keywords": [
     "deserialize",
