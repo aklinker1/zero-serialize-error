@@ -1,0 +1,7 @@
+ignorePaths:
+  - dist
+  - node_modules
+words:
+  - aklinker1
+  - oxfmt
+  - oxlint
