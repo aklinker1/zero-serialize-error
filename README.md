@@ -2,7 +2,7 @@
 
 # `@aklinker1/zero-serialize-error`
 
-[![JSR](https://jsr.io/badges/@aklinker1/zero-serialize-error)](https://jsr.io/@aklinker1/zero-serialize-error) [![NPM Version](https://img.shields.io/npm/v/%40aklinker1%2Fzero-serialize-error?logo=npm&labelColor=red&color=white)](https://www.npmjs.com/package/@aklinker1/zero-serialize-error) [![Docs](https://img.shields.io/badge/Docs-blue?logo=readme&logoColor=white)](https://jsr.io/@aklinker1/zero-serialize-error) [![API Reference](https://img.shields.io/badge/API%20Reference-blue?logo=readme&logoColor=white)](https://jsr.io/@aklinker1/zero-serialize-error/doc) [![License](https://img.shields.io/npm/l/%40aklinker1%2Fzero-serialize-error)](https://github.com/aklinker1/zero-serialize-error/blob/main/LICENSE)
+[![JSR](https://jsr.io/badges/@aklinker1/zero-serialize-error)](https://jsr.io/@aklinker1/zero-serialize-error) [![NPM Version](https://img.shields.io/npm/v/%40aklinker1%2Fzero-serialize-error?logo=npm&labelColor=red&color=white)](https://www.npmjs.com/package/@aklinker1/zero-serialize-error) [![API Reference](https://img.shields.io/badge/API%20Reference-blue?logo=readme&logoColor=white)](https://jsr.io/@aklinker1/zero-serialize-error/doc) [![License](https://img.shields.io/npm/l/%40aklinker1%2Fzero-serialize-error)](https://github.com/aklinker1/zero-serialize-error/blob/main/LICENSE)
 
 Serialize and deserialize errors with zero dependencies.
 
