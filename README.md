@@ -14,10 +14,11 @@ bun add @aklinker1/zero-serialize-error
 
 ## Features
 
-- Convert errors to and from JS objects
-- Serializes entire `cause` tree
-- Supports custom properties added to errors
-- Accepts custom serialization functions for converting other data types to and from objects`
+- 🔄 Convert errors to and from JS objects
+- 🌳 Serializes entire `cause` tree
+- ✨ Supports custom properties added to errors
+- 🔧 Accepts custom serialization functions for converting other data types to and from objects
+- 📦 Tiny package with zero dependencies
 
 ## Usage
 
