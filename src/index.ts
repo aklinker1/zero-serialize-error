@@ -1,14 +1,10 @@
-/** Serialized error objects include */
+/** The type an error will be serialized into */
 export type SerializedError = {
-  /** The `error.name` */
   name: string;
-  /** The `error.message` */
   message: string;
-  /** The `error.stack` */
   stack: string;
-  /** The `error.cause` */
   cause?: unknown;
-  [otherKeys: string]: unknown;
+  [otherProperties: string]: unknown;
 };
 
 const TYPEOF_STRING = "string";
