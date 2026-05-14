@@ -2,7 +2,25 @@
   "name": "@aklinker1/zero-serialize-error",
   "version": "1.0.0",
   "description": "Serialize and deserialize errors with zero dependencies",
+  "keywords": [
+    "deserialize",
+    "error",
+    "serialize"
+  ],
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/aklinker1/zero-serialize-error"
+  },
+  "files": [
+    "dist"
+  ],
   "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.mts",
+      "default": "./dist/index.mjs"
+    }
+  },
   "scripts": {
     "check": "bun run build && check",
     "build": "tsdown --dts.tsgo --minify",
@@ -16,8 +34,7 @@
     "oxfmt": "^0.49.0",
     "oxlint": "^1.64.0",
     "publint": "^0.3.21",
-    "tsdown": "^0.22.0",
-    "typescript": "^6"
+    "tsdown": "^0.22.0"
   },
   "packageManager": "bun@1.3.13"
 }
