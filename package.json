@@ -8,9 +8,6 @@
     "build": "tsdown --dts.tsgo --minify",
     "test": "bun test"
   },
-  "dependencies": {
-    "serialize-error": "^13.0.1"
-  },
   "devDependencies": {
     "@aklinker1/check": "^2.4.0",
     "@types/bun": "latest",
