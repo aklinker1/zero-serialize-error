@@ -54,4 +54,4 @@ Inspired by `serialize-error`. Goal was to trim it down, drop any dependencies, 
 | Package                           |  Size  | `node_modules` Size |
 | --------------------------------- | :----: | :-----------------: |
 | `serialize-error`                 | 20 kB  |      586.8 kB       |
-| `@aklinker1/zero-serialize-error` | 4.1 kB |       4.1 kB        |
+| `@aklinker1/zero-serialize-error` | 6.1 kB |       6.1 kB        |
