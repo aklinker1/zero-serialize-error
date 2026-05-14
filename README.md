@@ -51,7 +51,7 @@ console.log(deserialized.time); // "[object Date]"
 
 Inspired by `serialize-error`. Goal was to trim it down, drop any dependencies, and make it as small as possible.
 
-| Package                           | Size  | `node_modules` Size |
-| --------------------------------- | :---: | :-----------------: |
-| `serialize-error`                 | 20 kB |      586.8 kB       |
-| `@aklinker1/zero-serialize-error` | ?? kB |        ?? kB        |
+| Package                           |  Size  | `node_modules` Size |
+| --------------------------------- | :----: | :-----------------: |
+| `serialize-error`                 | 20 kB  |      586.8 kB       |
+| `@aklinker1/zero-serialize-error` | 4.1 kB |       4.1 kB        |
