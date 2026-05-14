@@ -20,7 +20,7 @@ const STACK_KEY = "stack";
 const CAUSE_KEY = "cause";
 
 /**
- * A value is considered a serialize error when it's name, message, and stack properties are all
+ * A value is considered a serialized error when it's name, message, and stack properties are all
  * strings.
  */
 export function isSerializedError(value: unknown): value is SerializedError {
